@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\81519\Documents\node_front_vuejs\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+/server/node_modules/
+/server/package-lock.json
+
+/web/sample/node_modules/
+/web/sample/yarn.lock
